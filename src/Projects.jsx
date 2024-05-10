@@ -77,8 +77,7 @@ const Projects = () => {
                 <span className="text-gray-500 transform -translate-y-px select-none">
                   &rsaquo;
                 </span>
-                Incorporated Instagram Basic Display API into the application,
-                enabling users to seamlessly connect their Instagram accounts.
+                Enforced robust security measures including secure authentication and data storage utilizing RESTful APIs and MongoDB, safeguarding user data integrity and privacy.
               </li>
             </ul>
           </section>
